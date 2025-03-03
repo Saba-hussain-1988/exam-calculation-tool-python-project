@@ -70,3 +70,8 @@ if calculate_generate:
         st.write(f"Grade: {grade}")
     else :
         st.error("❌ Please fill all fields!")
+
+
+st.markdown("<h6 style='text-align: center; color: grey;'>Developed and designed by <a href='mailto:sabamustafa27.88@gmail.com'>Saba Chohan</a></h6>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'><a href='https://linkedin.com/in/saba-mustafa-ahmed-3aa41a322'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='20' height='20'></a> <a href='https://www.facebook.com/share/17fqow4nrL/'><img src='https://cdn-icons-png.flaticon.com/512/124/124010.png' width='20' height='20'></a> </p>", unsafe_allow_html=True)
+
